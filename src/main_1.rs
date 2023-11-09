@@ -55,6 +55,5 @@ fn main() {
 
     // free up the resources
     writer.flush().unwrap();
-
-
+    
 }
